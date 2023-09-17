@@ -8,7 +8,7 @@ use STORY;
 
 drop table if exists ACCOUNT;
 
-drop table if exists DETAIL_REPORT;
+drop table if exists DETAIL_REPORT; 
 
 drop table if exists PART;
 
