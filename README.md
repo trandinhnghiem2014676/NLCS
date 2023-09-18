@@ -21,6 +21,7 @@
 * Điều kiện:
 * Mô tả: Từ giao diện trang chủ tìm truyện mình muốn đọc sau đó click vào truyện đó , người dùng sẽ được trả về giao diện của truyện mình đã chọn , sau đó người dùng chọn vào chương mình muốn đọc rồi bắt đầu đọc.
 
+
 ### Xem, xóa truyện
 * Quyền: admin, user
 * Điều kiện: đã đăng nhập vào tài khoản
