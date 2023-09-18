@@ -27,7 +27,7 @@
 * Mô tả: Từ giao diện trang chủ tìm truyện mình muốn đọc sau đó click vào truyện đó , người dùng sẽ được trả về giao diện của truyện mình đã chọn , sau đó người dùng chọn vào chương mình muốn đọc rồi bắt đầu đọc.
 
 
-### Xem, xóa truyện
+### Xóa truyện
 * Quyền: admin, user
 * Điều kiện: đã đăng nhập vào tài khoản
 * Mô tả: <1> Đối với admin: từ trang admin chọn mục quản lý truyện, chọn vào tài khoản có truyện muốn xóa, chọn truyện muốn xóa, hiển thị: "bạn có chắc chắn muốn xóa truyện...." chọn yes or no. Nếu chọn yes thì hiển thị " xóa truyện thành công" sau đó chuyển về trang truyện của tài khoản khi nãy, nếu chọn no thì chuyển đến trang truyện của tài khoản khi nãy.
