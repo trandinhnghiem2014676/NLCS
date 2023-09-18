@@ -11,6 +11,11 @@
 * Điều kiện:
 * Mô tả: Từ giao diện trang chủ. Người dùng chọn vào mục tài khoản. Chọn đăng ký. Người dùng sẽ được chuyển đến giao diện đăng ký. Người dùng nhập các thông tin sau: tên tài khoản, mật khẩu, ngày tháng năm sinh, giới tính. Sau đó người dùng bấm đăng ký. Hiển thị: "Đăng ký tài khoản thành công" rồi chuyển về trang tài khoản cá nhân.
 
+### Đăng xuất
+* Quyền: user, admin
+* Điều kiện: đang đăng nhập vào tài khoản
+* Mô tả: Từ giao diện tài khoản cá nhân chọn đăng xuất. Thông báo đăng xuất thành công và trả về giao diện trang chủ.
+
 ### Đăng truyện
 * Quyền: user
 * Điều kiện: đã đăng nhập vào tài khoản
