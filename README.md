@@ -21,6 +21,7 @@
 * Điều kiện: đã đăng nhập vào tài khoản
 * Mô tả: Từ giao diện trang tài khoản cá nhân chọn vào mục truyện của tôi. Người dùng sẽ được chuyển đến giao diện truyện cá nhân. Chọn thêm , người dùng sẽ được chuyển đến giao diện thêm truyện. Người dùng nhập vào các thông tin sau: tên truyện,loại truyện(truyện chữ hoặc truyện tranh), thể loại. Người dùng sẽ được chuyển đến giao diện truyện vừa được tạo chọn thêm chương mới sau đó người dùng nhập tên chương sau khi nhập trong thì chọn đồng ý , người dùng sẽ được chuyển về giao diện nhập ảnh, sau khi nhập xong truyện thì chọn lưu. Hiển thị "Lưu thành công", rồi chuyển về giao diện truyện vừa mới được tạo.
 
+
 ### Đọc truyện
 * Quyền: tất cả
 * Điều kiện:
