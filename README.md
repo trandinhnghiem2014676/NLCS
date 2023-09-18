@@ -16,6 +16,12 @@
 * Điều kiện: đã đăng nhập vào tài khoản
 * Mô tả: Từ giao diện trang tài khoản cá nhân chọn vào mục truyện của tôi. Người dùng sẽ được chuyển đến giao diện truyện cá nhân. Chọn thêm , người dùng sẽ được chuyển đến giao diện thêm truyện. Người dùng nhập vào các thông tin sau: tên truyện,loại truyện(truyện chữ hoặc truyện tranh), thể loại. Người dùng sẽ được chuyển đến giao diện truyện vừa được tạo chọn thêm chương mới sau đó người dùng nhập tên chương sau khi nhập trong thì chọn đồng ý , người dùng sẽ được chuyển về giao diện nhập ảnh, sau khi nhập xong truyện thì chọn lưu. Hiển thị "Lưu thành công", rồi chuyển về giao diện truyện vừa mới được tạo.
 
+### Đọc truyện
+* Quyền: tất cả
+* Điều kiện:
+* Mô tả: Từ giao diện trang chủ tìm truyện mình muốn đọc sau đó click vào truyện đó , người dùng sẽ được trả về giao diện của truyện mình đã chọn , sau đó người dùng chọn vào chương mình muốn đọc rồi bắt đầu đọc.
+
+
 ### Xem, xóa truyện
 * Quyền: admin, user
 * Điều kiện: đã đăng nhập vào tài khoản
@@ -52,4 +58,18 @@ Nêú người dùng chọn đổi tên truyện thị hiện ra giao diện đ�
 * Điều kiện: đã đăng nhập vào tài khoản
 * Mô tả: Tại giao diện trang admin chọn phản hồi báo cáo, sau đó admin sẽ được chuyển đến trang phản hồi báo cáo . Chọn báo cáo muốn phản hồi tiến hành nhập phản hồi chọn gửi hoặc hủy.  Nếu chọn gửi thì hiện thị :" Gửi thành công" sau đó quay về giao diện phản hồi báo cáo, nếu chọn hủy thì quay về phản hồi báo cáo.
 
-### Thêm truyện 
+### Thêm truyện yêu thích
+* Quyền: user
+* Điều kiện: đã đăng nhập vào tài khoản
+* Mô tả: Tại giao diện trang chủ người dùng tìm và chọn truyện mình muốn thêm vào mục yêu thích , chọn vào mục thêm chọn thêm vào mục yêu thích , hiển thị :"Thêm truyện yêu thích thành công", sau đó quay lại giao diện của trang truyện.
+
+### Xem lịch sử đọc truyện
+* Quyền: user
+* Điều kiện: đã đăng nhập vào tài khoản
+* Mô tả: Tại giao diện trang tài khoản cá nhân người dùng chọn vào mục lịch sử xem, người dùng sẽ được chuyển đến giao diện lịch sử các truyện đã xem gần đây.
+
+
+### Thống kê truyện đọc và thích nhiều nhất
+* Quyền: admin
+* Điều kiện : đã đăng nhập vào tài khoản
+* Mô tả: Tại giao diện trang tài admin chọn mục thống kê truyện, chọn loại thống kê (lượng đọc,lượng thích) giao diện hiển thị ra danh sách các truyện đã được thống kê từ nhiều đến ít.
